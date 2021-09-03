@@ -29,7 +29,7 @@ const array = [...iterable()];
 console.log(array);
 
 // Ejericio de elevar al cuadrado de forma asincrona
-console.log("*** EJERCICIO DEL CUADRADO ***")
+console.log("*** EJERCICIO DEL CUADRADO ***");
 function cuadrado(valor) {
   setTimeout(() => {
     console.log({ valor, resultado: valor * valor });
