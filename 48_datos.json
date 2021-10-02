@@ -1,0 +1,8 @@
+{
+  "nombre": "Ian",
+  "edad": 24,
+  "vivo": true,
+  "gustos": ["peliculas", "musica", "videojuegos"],
+  "redes": { "twitter": "@danian", "instagram": "@dan1an" },
+  "dinero": null
+}
